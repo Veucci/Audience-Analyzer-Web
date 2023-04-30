@@ -27,7 +27,7 @@ Audience Analyzer is a Python project built to analyze faces in images and video
 
 - Detailed reports
 
-~~ Switch from command line to website ✅ ~~
+- Switch from command line to website ✅
 
 - Better models to get more accuracy
 
